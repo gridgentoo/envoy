@@ -5,6 +5,7 @@ https://github.com/envoyproxy/envoy
 https://drive.google.com/drive/folders/1DfDLGw0K74a4HXRWGDb5_P8qrKWBB9cU   
 
 Архитектурная Схема Envoy    
+добавлены следующие NameSpase   
 {namespace RedisProxy }  
 {namespace RocketmqProxy }  
 {namespace KafkaProxy }   
