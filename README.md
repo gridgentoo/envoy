@@ -1,7 +1,5 @@
-Оригинальный репозиторий Envoy  
-https://github.com/envoyproxy/envoy   
-
-Архитектура и Реверс инжинириг Envoy  
+ 
+Реверс инжиниринг архитектуры Envoy
 https://drive.google.com/drive/folders/1DfDLGw0K74a4HXRWGDb5_P8qrKWBB9cU   
 
 Архитектурная Схема Envoy    
@@ -14,6 +12,8 @@ https://drive.google.com/drive/folders/1DfDLGw0K74a4HXRWGDb5_P8qrKWBB9cU
 {namespace MongoProxy }   
 https://docs.google.com/document/d/1-MLrtFf4NimmWxN2WAowa_COUK_ME4t4gTOcwyy7Y-c/edit   
 
+Оригинальный репозиторий Envoy  
+https://github.com/envoyproxy/envoy  
 
 ![Envoy Logo](https://github.com/envoyproxy/artwork/blob/main/PNG/Envoy_Logo_Final_PANTONE.png)
 
